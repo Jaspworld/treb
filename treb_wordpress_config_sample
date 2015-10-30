@@ -11,7 +11,7 @@ phone_msg : sample phone message contact information
 [wordpress]
 wp_url=http://www.condosbrampton.com/
 wp_username=admin
-wp_password=13318967Jasp!!
+wp_password=13318967Jasp
 user_perm: 500
 group_perm: 501
 
